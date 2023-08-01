@@ -12,7 +12,7 @@
 - Project Name: 'Trojan';
 - Languages: 'Python';
 - Softwares/Work Tools: 'V.S. Code';
-- Resume: Repository with some trojans made.;
+- Resume: Only educational and learning content for Cybersecurity knowledge.;
 - Obs: Example;
 - Version: v.1.0.0
 
